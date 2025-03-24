@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    border-bottom: 2px solid #eaeaea;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+.navbar-nav .btn {
+    font-size: 0.9rem;
+    padding: 8px 20px;
+}
+
+.nav-dropdown {
+    font-size: 0.9rem;
+}
+
+.container {
+    max-width: 900px;
+}

@@ -17,7 +17,7 @@ const Home = () => {
 
           </Col>
           <Col md={6}>
-            <Image src="https://via.placeholder.com/500x300" alt="Online payment illustration" fluid />
+            <Image src="im.webp" alt="Online payment illustration" fluid />
           </Col>
         </Row>
       </Container>

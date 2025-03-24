@@ -45,4 +45,3 @@ client/yarn-error.log
 # Optional: Ignore client-specific config files
 client/.next/
 client/out/
-client/public/
